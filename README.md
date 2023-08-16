@@ -94,5 +94,5 @@
 
 ## Give a Star to this Repository if you're also an Open Source Enthusiast.⭐
 
-### Note: You can raise an issue if you know more Open Source Programs.🚀
+### Note: Please contribute to this repository if you know more Open Source Programs.🚀
 
