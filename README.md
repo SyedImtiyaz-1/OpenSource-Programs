@@ -92,7 +92,7 @@
 | [Cross Winter of code](https://crosswoc.ieeedtu.in/) (CrossWoC) | Certificates, SWAGs | [timeline](https://crosswoc.ieeedtu.in/#schedule)|
 | [IIIT-Kalyani Winter of code](https://gdsc-woc.tech/) (WoC 2.0) | Certificates, SWAGs | [timeline](https://gdsc-woc.tech/#timeline)|
 
-### Give a Star to this Repository if you're also an Open Source Enthusiast.⭐
+### Give a Star to this Repository if you're also an Open Source Enthusiast.⭐ 
 
 ### Note: Please contribute to this repository if you know more Open Source Programs.🚀
 
